@@ -1,4 +1,4 @@
-# toy-project_AI-JACK
+# 🌌 toy-project_AI-JACK
 > 기분에 따라, 음식 종류에 따라 음식을 추천해주는 프로그램
 
 <br>
@@ -26,12 +26,12 @@
 <summary><b>JACK CLASS</b></summary>
 <div markdown="1">
 
-#### 01. equalsIgnoreCase() : pushpin: [코드 확인]()
+#### 01. equalsIgnoreCase() : 📌 [코드 확인](https://github.com/JONGHWI-PARK/toy-project_AI-JACK/blob/2c651902652bca406636182003a6ba488000a4b2/src/project01/Jack.java#L28)
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/74112304-740f-47ad-aabb-bd9f7e0c6908/image.png) 
 - equals()와 같이 문자열을 비교할 때 사용
 : equals()는 대소문자를 구분해야 하지만 equalsIgnoreCase()는 대소문자를 구분하지 않아도 되기 때문에 이것을 사용하였다.
 
-#### 02. indexOf() : pushpin: [코드 확인]()
+#### 02. indexOf() : 📌 [코드 확인](https://github.com/JONGHWI-PARK/toy-project_AI-JACK/blob/2c651902652bca406636182003a6ba488000a4b2/src/project01/Jack.java#L34)
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/8d1828e8-144c-4223-bd87-c24b6d2c728b/image.png)
 - indexOf()의 특정 문자 위치 조회를 활용하여 특정 문자를 출력할 수 있도록 하였다.
 
@@ -42,7 +42,7 @@
 <summary><b>FEELING CLASS</b></summary>
 <div markdown="1">
 
-#### 01. Keywords : pushpin: [코드 확인]()
+#### 01. Keywords : 📌 [코드 확인](https://github.com/JONGHWI-PARK/toy-project_AI-JACK/blob/2c651902652bca406636182003a6ba488000a4b2/src/project01/Feeling.java#L10)
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/d3c86f9d-cbf1-4818-a5d2-777a61d7c177/image.png)
 
 - 실제 AI Siri와 대화하듯이 프로그램이 진행되었으면 해서 질문과 대답의 키워드를 미리 입력해두었다. <br>
@@ -50,7 +50,7 @@
   <br>
   - 추후 키워드 추가 및 삭제 같은 유지보수가 용이하게 하기 위해 배열을 이용하여 데이터를 저장하였다.
 
-#### 02. Random( ) : pushpin: [코드 확인]()
+#### 02. Random( ) : 📌 [코드 확인](https://github.com/JONGHWI-PARK/toy-project_AI-JACK/blob/2c651902652bca406636182003a6ba488000a4b2/src/project01/Feeling.java#L32)
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/f1e25d12-488a-4729-95f9-732fb7f3470e/image.png)
 
 - Random( ) 함수를 이용해 배열 값들을 랜덤으로 출력하도록 하였다.
@@ -62,7 +62,7 @@
 <summary><b>KIND CLASS</b></summary>
 <div markdown="1">
 
-#### 01. Contains( ) : pushpin: [코드 확인]()
+#### 01. Contains( ) : 📌 [코드 확인](https://github.com/JONGHWI-PARK/toy-project_AI-JACK/blob/2c651902652bca406636182003a6ba488000a4b2/src/project01/Kind.java#L35)
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/9a72c4bd-8ead-4858-bf71-2f1113de9ef2/image.png)
 - indexOf() 대신 사용했던 이유
       : 특정 문자열을 더 간단하게 취할 수 있어 사용했다.
