@@ -1,4 +1,5 @@
 # 🌌 toy-project_AI-JACK
+## Toy Project - 음식 추천 AI Jack
 > 기분에 따라, 음식 종류에 따라 음식을 추천해주는 프로그램
 
 <br>
